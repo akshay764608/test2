@@ -1,0 +1,36 @@
+body {
+  background-color: #42dee1;
+  font-family:times new roman;
+  font-size: 30px;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  width:5%;
+
+}
+
+img {
+  border-style:solid;
+  border-color:#f39422;
+  border-radius: 100px;
+}
+
+img:hover{
+  background-color: red;
+}
+
+h1,h3{
+  color:#192965;
+}
+a:hover{
+  background-color: gold;
+}
+a:link{
+  text-decoration: none;
+  border:5px;
+  border-color: #f39422 ;
+  padding:15px;
+}
